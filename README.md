@@ -1,5 +1,5 @@
 # Welcome on my GitHub! :wave: 
-# My name is Filip and I'm aspiring web developer! 
+# My name is Filip and I'm Web Developer! 
 
 * 100Devs team 
 * Learning MERN Stack 
