@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Filip #100Devs_team</h1>
 <h3 align="center">A full-stack web developer from Poland</h3>
 
-- 🔭 I’m currently working on [AI Sudoku Solver](https://github.com/Frosenow/AI-Sudoku-Solver)
+- 🔭 I’m currently working on [LiftLogicAI]([https://github.com/Frosenow/AI-Sudoku-Solver](https://github.com/Frosenow/AI-Training-Assistant))
 
-- 🌱 I’m currently learning: **Tensorflow.js, React and Node.js**
+- 🌱 I’m currently learning: **React Native, PostgreSQL**
 
 - 📫 How to reach me: **filip.potepa@gmail.com**
 
