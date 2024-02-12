@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning: **React Native, PostgreSQL**
 
-- 📫 How to reach me: **filip.potepa@gmail.com**
+- 📫 How to reach me:
+  * **filip.potepa@gmail.com**
+  * **https://www.linkedin.com/in/filip-potepa/**
 
 <h2 align="center">Connect with me:</h3>
 <p align="center">
