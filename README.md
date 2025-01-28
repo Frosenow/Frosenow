@@ -5,7 +5,7 @@
 ---
 
 ### ⚙️ I use daily:
-`.js` | `.ts` | `.thml` | `.css`  
+`.js` | `.ts` | `.html` | `.css`  
 
 ---
 
